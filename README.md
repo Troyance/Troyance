@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Troyance
-- 👀 I’m interested in learning (data sci turned blockchain dev), encryption, consensus algorithms, & blockchain. Primarily Ethereum ⟠.
-- 🌱 I’m currently learning JS & Solidity.
-- 💞️ I’m looking to collaborate on developing a project on Ethereum.
+- 👀 I’m interested in learning more about data science to further my growth and understand new exciting algorithms and techniques.
+- 🌱 I’m always learning new concepts in machine learning, as well as new things about R. I intend on learning Python for data science eventually.
+- 💞️ I’m looking for other data scientists to help guide my progress in becoming the best possible data scientist that I can be.
 - 📫 How to reach me trpyancedev@gmail.com
-- :link: the future is immutable.
+- :link: the past is immutable. blockchain curious.
 
 <!---
 Troyance/Troyance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
