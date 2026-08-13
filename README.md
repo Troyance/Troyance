@@ -17,6 +17,3 @@ recommendation systems).
 
 **elsewhere**
 Paintings, music, photographs, words.  
-Writing occasionally at hedonicdeficit.substack.com.
-
-📫 troyancedev@gmail.com
