@@ -1,19 +1,21 @@
 ### hey, I'm Troy 👋
 
-I make games and I work with data — sometimes those feel like the same thing.
+I'm an analytics engineer. Most of my work is turning raw data into clean,
+tested models that people can actually build reports and decisions on.
 
-Currently building in **Godot 4**. By day I'm an analytics engineer working in 
-dbt + BigQuery + Looker, with a background in data science (forecasting, NLP, 
-recommendation systems).
+Day to day that's mostly `dbt`, `BigQuery` and `Looker`. Before analytics
+engineering I worked in data science — forecasting, NLP and recommendation
+systems — so I still end up close to the modeling side, especially demand
+forecasting.
 
-**game dev**
-- narrative-driven roguelikes and life sims
-- games that heal instead of punish
-- HD-2D aesthetics · lo-fi systems design · emergent storytelling
+**what I work with**
+- `SQL` · `dbt` · `BigQuery` · `Looker` · `Python` · `R`
+- currently learning `Databricks` and `Spark`
 
-**data**
-- `dbt` · `BigQuery` · `Looker` · `Python` · `R`
-- time series forecasting · demand modeling · ML
+**what I care about**
+- data models that are easy to understand and hard to break
+- metric definitions that mean the same thing everywhere
+- forecasts that are honest about how wrong they might be
 
-**elsewhere**
-Paintings, music, photographs, words.  
+**outside of work**
+Games, paintings, music, photographs, words.
